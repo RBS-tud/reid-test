@@ -1,6 +1,7 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to Reid's Originals
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+This is a place for Reid to put random words together for testing TeachBooks.
+```{warning} Zero Liability
+The author would like to express that the contents of this book is for testing and musings only. The author should not be held liable for anything that you may or may not think of. It is not to be used as legal, medical, or interior design advice. You have been warned...
+```
